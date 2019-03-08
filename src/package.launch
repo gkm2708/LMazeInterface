@@ -1,0 +1,3 @@
+<launch>
+<node name="lmaze_interface" pkg="lmaze_interface" type="lmaze_interface.py" />
+</launch>
